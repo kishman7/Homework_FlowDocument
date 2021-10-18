@@ -1,0 +1,15 @@
+F:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_FlowDocument\Homework_FlowDocument\bin\Debug\Homework_FlowDocument.exe.config
+F:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_FlowDocument\Homework_FlowDocument\bin\Debug\Homework_FlowDocument.exe
+F:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_FlowDocument\Homework_FlowDocument\bin\Debug\Homework_FlowDocument.pdb
+F:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_FlowDocument\Homework_FlowDocument\obj\Debug\Homework_FlowDocument.csprojAssemblyReference.cache
+F:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_FlowDocument\Homework_FlowDocument\obj\Debug\MainWindow.g.cs
+F:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_FlowDocument\Homework_FlowDocument\obj\Debug\App.g.cs
+F:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_FlowDocument\Homework_FlowDocument\obj\Debug\Homework_FlowDocument_MarkupCompile.cache
+F:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_FlowDocument\Homework_FlowDocument\obj\Debug\Homework_FlowDocument_MarkupCompile.lref
+F:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_FlowDocument\Homework_FlowDocument\obj\Debug\MainWindow.baml
+F:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_FlowDocument\Homework_FlowDocument\obj\Debug\Homework_FlowDocument.g.resources
+F:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_FlowDocument\Homework_FlowDocument\obj\Debug\Homework_FlowDocument.Properties.Resources.resources
+F:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_FlowDocument\Homework_FlowDocument\obj\Debug\Homework_FlowDocument.csproj.GenerateResource.cache
+F:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_FlowDocument\Homework_FlowDocument\obj\Debug\Homework_FlowDocument.csproj.CoreCompileInputs.cache
+F:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_FlowDocument\Homework_FlowDocument\obj\Debug\Homework_FlowDocument.exe
+F:\YURKO\SHAG\Project C#\23_03102021_Lab_WPF(Event)\Homework_FlowDocument\Homework_FlowDocument\obj\Debug\Homework_FlowDocument.pdb
